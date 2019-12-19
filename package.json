@@ -1,0 +1,22 @@
+{
+  "name": "gutengirl",
+  "version": "1.0.0",
+  "description": "リードミーだよ！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaorock72/gutengirl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaorock72/gutengirl/issues"
+  },
+  "homepage": "https://github.com/kaorock72/gutengirl#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "6.0.0"
+  }
+}
